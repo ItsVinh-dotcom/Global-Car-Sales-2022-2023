@@ -4,9 +4,15 @@
 
 This project provides an in-depth analysis of car sales data from 2022 to 2023, focusing on uncovering trends, patterns, and actionable insights to support business decision-making in the automotive and retail industries.
 
-## Industry Focus
+## Industry Focus: Automotive and Retail Analytics
 
-- Automotive and Retail Analytics
+## Result
+
+### Sales trend
+
+### Product insight
+
+### Customer behaviour
 
 ## Problem Statement
 
