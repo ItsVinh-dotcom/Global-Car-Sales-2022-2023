@@ -10,9 +10,18 @@ This project provides an in-depth analysis of car sales data from 2022 to 2023, 
 
 ### Sales trend
 
+![Monthly Sales Trends](monthly_sales_trend.png "Monthly Sales Trends")
+![Sales by Region](sales_by_region.png "Sales by Region")
+
 ### Product insight
 
+![Top 10 Popular Car Models](top_10_popular_models.png "Top 10 Popular Car Models")
+![Transmission Type Distribution](transmission_type_distribution.png "Transmission Type Distribution")
+
 ### Customer behaviour
+
+![Sales by Gender](sales_by_gender.png "Sales by Gender")
+![Income Levels by Genders](income_levels_by_gender.png "Income Levels by Genders")
 
 ## Problem Statement
 
